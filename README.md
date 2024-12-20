@@ -22,7 +22,7 @@ The project investigates the gut microbiome's composition and metabolic activity
 - **Results**:
   - Taxonomic profiles, diversity indices, and metabolite flux analyses.
   - Visualizations (Krona pie charts, Pavian Sankey diagrams, etc.).
-  - 
+  
 ---
 
 ## Tools and Frameworks
